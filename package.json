@@ -1,0 +1,17 @@
+{
+	"name": "diceware",
+	"version": "0.0.1",
+	"description": "Simple diceware utility (http://world.std.com/~reinhold/diceware.html)",
+	"keywords": [
+		"diceware",
+		"generate",
+		"passphrase"
+	],
+	"homepage": "http://www.github.com/jatenate/diceware",
+	"main": "lib/diceware.js",
+	"author": "Justin Hurley (@jmh)",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jatenate/diceware.git"
+	}
+}
