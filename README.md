@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jatenate/diceware.png)](http://travis-ci.org/jatenate/diceware)
 # A simple diceware module
 
 `diceware` generates passphrases using the [diceware method](http://world.std.com/~reinhold/diceware.html).
